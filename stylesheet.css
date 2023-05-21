@@ -116,6 +116,18 @@
     box-shadow: 9px 2px 12px rgb(48, 104, 91);
     padding-top: 20px;
     padding-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.footer_c {
+    display: block;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'roboto', sans-serif;
+    box-shadow: 9px 2px 12px rgb(48, 104, 91);
+    padding-top: 20px;
+    padding-bottom: 20px;
     position: relative;
     bottom: 0;
     width: 100%;
