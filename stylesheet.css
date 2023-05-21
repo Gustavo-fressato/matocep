@@ -174,11 +174,16 @@
     font-weight: 400;
     font-size: 15px;
 }
-
 .textorob {
     margin: 2em 0;
 }
-
 .imagem_trabalho {
+    margin-top: 2em;
     width: 350px;
+    border-radius: 7px;
+}
+.video_trabalho {
+    margin-top: 2em;
+    width: 350px;
+    border-radius: 7px;
 }
