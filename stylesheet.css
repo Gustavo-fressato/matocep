@@ -187,8 +187,8 @@
 }
 .ttext {
     margin-top: 2em;
+    text-align: center;
 }
 .center {
-    width: auto;
     text-align: center;
 }
