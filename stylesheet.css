@@ -178,12 +178,14 @@
     margin: 2em 0;
 }
 .imagem_trabalho {
-    margin-top: 2em;
     width: 350px;
     border-radius: 7px;
 }
 .video_trabalho {
     margin-top: 2em;
-    width: 350px;
+    width: 250px;
     border-radius: 7px;
+}
+.ttext {
+    margin-top: 2em;
 }
