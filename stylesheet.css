@@ -90,8 +90,13 @@
 .viewlink {
     text-decoration: none;
 }
-.view:hover {
+.viewlink:hover {
     color: rgb(9, 73, 58);
+    
+}
+
+
+.view:hover {
     background-color: rgb(234, 253, 232);
 }
 .ourcontact {
