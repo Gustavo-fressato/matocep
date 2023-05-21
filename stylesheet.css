@@ -95,8 +95,6 @@
     color: rgb(9, 73, 58);
     
 }
-
-
 .view:hover {
     background-color: rgb(234, 253, 232);
 }
@@ -127,7 +125,7 @@
     font-weight: 400;
     font-size: 16px;
     margin-left: calc(50% - 52px);
-    height: 35px;
+    height: 75px;
     width: 100px;
     border-radius: 7px;
     border: none;
