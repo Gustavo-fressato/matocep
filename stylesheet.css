@@ -182,10 +182,12 @@
     border-radius: 7px;
 }
 .video_trabalho {
-    margin-top: 2em;
     width: 250px;
     border-radius: 7px;
 }
 .ttext {
     margin-top: 2em;
+}
+.center {
+    width: auto;
 }
